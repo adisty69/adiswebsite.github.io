@@ -1,0 +1,37 @@
+* {
+    margin: 0 ;
+    padding: 0;
+}
+
+
+body {
+    background-color: #a7a7a7;
+}
+
+.prvidiv { width:30rem;
+    background-color:grey;
+    margin: 15rem auto;
+}
+.prvidiv img{width:20rem;
+    padding: 5rem;
+}
+.prvidiv h1{padding-top:5rem;
+    text-align: center;   
+}
+.prvidiv p{padding:5rem;
+    text-align: center;
+}
+.drugidiv { width: 50rem;
+    background-color: grey;
+    margin: 15rem auto;
+}
+.drugidiv h1{text-align:center ;
+padding-bottom: 10rem;}
+.drugidiv img{width: 35rem;
+padding: 7.5rem;}
+.drugidiv p{padding-left: 10rem;
+    padding-right: 10rem;
+    padding-bottom: 5rem;
+text-align: center;
+font-size: 1.5rem;
+color: red;}
